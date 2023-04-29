@@ -3,7 +3,7 @@ This is an abstracted simulation of an ALU. The goal is to read two binary value
 To run the program you need to give it two eight bit binary values. They need to be typed into the first and second lines of Values.txt. 
 Only type the first twwo lines and only give it two 8 bit digits. Like so: 
 
-00000001
+00000001 <br />
 00000010
 
 We are simply using python's built in lineread method. 
